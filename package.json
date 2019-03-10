@@ -1,0 +1,17 @@
+{
+  "name": "web-new-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "handlebars": "^4.1.0",
+    "hbs": "^4.0.3"
+  }
+}
